@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "TitilliumWeb-SemiBoldItalic";
+    src: url(../assets/fonts/titillium_web/Titillium_Web/TitilliumWeb-SemiBoldItalic.ttf);
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Mobile First */
+
+h1{
+    font-family: "TitilliumWeb-SemiBoldItalic";
+}
+
+body{
+    background-color: black;
+}
